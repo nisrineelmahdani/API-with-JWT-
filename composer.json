@@ -1,0 +1,16 @@
+{
+    "name": "elmah/api",
+    "description": "yes",
+    "autoload": {
+        "psr-4": {
+            "Elmah\\Api\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nisrineelmahdani",
+            "email": "elmahdaninisrine@gmail.com"
+        }
+    ],
+    "require": {}
+}
